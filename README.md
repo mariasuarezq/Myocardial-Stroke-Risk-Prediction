@@ -13,7 +13,7 @@ The analysis is divided into four sections, saved in juypter notebooks in this r
 - [Identifying the problem and inspecting the data](#identifying-the-problem-and-inspecting-the-data)
 - [Exploratory data analysis](#exploratory-data-analysis)
 - [Data pre-processing](#data-pre-processing)
-- [Predictive model](#predictive-model)
+- [Predictive model](https://github.com/mariasuarezq/Myocardial-Stroke-Risk-Prediction/blob/main/NB4%20Predictive%20model.ipynb)
 
 
 ## Project
