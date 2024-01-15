@@ -1,10 +1,6 @@
 # Myocardial Stroke Risk Prediction
 
-Acute myocardial stroke is a type of acute coronary syndrome characterized by the sudden onset of ischemic distress (lack of blood supply) to a part of the heart muscle, caused by the acute and total obstruction of one of the coronary arteries that supply it.
-
-Myocardial stroke is the leading cause of death for both men and women worldwide.
-
-The main reason for this is that the primary risk of acute myocardial stroke lies in the pre-hospital phase, meaning before admission to the hospital; mortality during this phase exceeds 40%. Once admitted to the hospital, if done promptly (ideally within four hours), modern treatments such as angioplasty and thrombolysis enable a satisfactory recovery from the stroke, and complications are relatively uncommon.
+Acute myocardial stroke is a type of acute coronary syndrome characterized by the sudden onset of ischemic distress (lack of blood supply) to a part of the heart muscle, caused by the acute and total obstruction of one of the coronary arteries that supply it. Myocardial stroke is the leading cause of death for both men and women worldwide. The main reason for this is that the primary risk of acute myocardial stroke lies in the pre-hospital phase, meaning before admission to the hospital; mortality during this phase exceeds 40%. Once admitted to the hospital, if done promptly (ideally within four hours), modern treatments such as angioplasty and thrombolysis enable a satisfactory recovery from the stroke, and complications are relatively uncommon.
 
 We will use in this proyect the "Healthcare DataSet Stroke Data", where we can find features like gender, age, various diseases, and smoking status. Each row in the DataSet provides relavant information about the patient. The dataset includes 5110 records and 12 attributes.
 
